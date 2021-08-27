@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1628666576 source:c:\users\ganesh naik\onedrive\desktop\mini_project\aquarium\main.c
+	<stdio.h>
+	<stdlib.h>
+	<freeglut.h>
+	<math.h>
+
